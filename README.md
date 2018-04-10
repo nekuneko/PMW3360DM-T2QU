@@ -1,5 +1,5 @@
 # PMW3360DM-T2QU
-Functional driver for PMW3360DM-T2QU optical navigation sensor.
+Functional library driver for PMW3360DM-T2QU optical navigation sensor.
 
 # Official Datasheet Outdated
 [Datasheet](www.pixart.com/upload/PMS0058-PMW3360DM-T2QU-NNDS-R1.30-06042016_20160902201411.pdf) provided on the official [website](http://www.pixart.com/product_data.asp?product_id=159&productclassify_id=1&productclassify2_id=3&partnumber=PMW3360DM-T2QU) by manufacturer PixArt is outdated. This document is labeled as "Version 1.30 |6 April 2016".
