@@ -54,8 +54,6 @@ void loop()
       #else
         if (mouse.x() != 0 || mouse.y() != 0)
           mySerial.println("x = " + (String)mouse.x() + " | y = "+ (String)mouse.y()); 
-        
-      }
       #endif // USE_MOUSE_LIBRARY
       
   #ifdef MOTION_INTERRUPT_PIN
