@@ -8,7 +8,7 @@
 
 #include <Arduino.h>
 #include <SPI.h>
-#include "PMW3360DM_srom_0x04.h"
+#include "roms/PMW3360DM_srom_0x04.h"
 
 //Be sure to add the SROM file into this sketch via "Sketch->Add File"
 extern const unsigned short firmware_length;
