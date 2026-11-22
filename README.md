@@ -13,5 +13,17 @@ In order to make work this sensor, is needed to load a firmware provided by manu
 
 Note that this firmware is not the same used on the ADNS-9800 sensor. PMW3360DM-T2QU's firmware weights about 4Kbytes and ADNS-9800's firmware can load 1.5Kbytes or 3Kbytes. Latest release of this firmware looks like to be 0x40.
 
- 
+# ☕ Support this project
+
+If **this project** saves you time, consider buying me a coffee!
+Your support helps me maintain and improve things like these.
+
+<p align="center">
+  <a href="https://ko-fi.com/nekuneko">
+    <img
+      src="https://img.shields.io/badge/Ko--fi-Support%20me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"
+      alt="Support me on Ko-fi"
+    >
+  </a>
+</p>
 
